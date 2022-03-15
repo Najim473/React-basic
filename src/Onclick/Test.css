@@ -1,0 +1,12 @@
+ul {
+  background: rgb(11, 112, 158);
+}
+ul li {
+  color: #ffffff;
+  list-style: upper-alpha;
+}
+ul li:nth-child(4) {
+  font-size: 20px;
+  text-align: center;
+  background: #000;
+}
