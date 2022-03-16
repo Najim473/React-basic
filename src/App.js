@@ -1,13 +1,11 @@
 // import logo from './logo.svg';
 import './App.css';
-import Test from './Onclick/Test';
-function App() {
-  
+import Test from './Test/Test';
+function App() {  
   return (
     <div className="App">
     <Test/>
     </div>
   );
 }
-
 export default App;
